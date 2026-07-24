@@ -1,7 +1,7 @@
 {
   "name": "ESPHome Organizer",
   "version": "1.0",
-  "slug": "esphome_organizer",
+  "slug": "esphome_organizer2",
   "description": "Automatyczne czyszczenie ESPHome + restart dodatków",
   "startup": "services",
   "boot": "auto",
